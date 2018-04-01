@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11292575289",
+    "firebase_url": "https://sardhikajanar1202150067modul6.firebaseio.com",
+    "project_id": "sardhikajanar1202150067modul6",
+    "storage_bucket": "sardhikajanar1202150067modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11292575289:android:35218c77245de3e4",
+        "android_client_info": {
+          "package_name": "com.example.asus.sardhikajanar_1202150067_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11292575289-j9t5b3m8hbka6g0erq37qej3ne7v6a35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.sardhikajanar_1202150067_modul6",
+            "certificate_hash": "7ec5779e0dcaeb51d09e117f20790c6fd2a2e8e2"
+          }
+        },
+        {
+          "client_id": "11292575289-c4n1mliqrnn3goribr288ov42ritgjep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wyGP2v6EMo2nXhzrVil8mimv9sK0LL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11292575289-c4n1mliqrnn3goribr288ov42ritgjep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
